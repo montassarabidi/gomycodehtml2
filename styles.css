@@ -1,0 +1,78 @@
+body {
+    font-family: 'Roboto', sans-serif;
+     background-image: url(bg.jpg);
+     margin: 0;
+    }
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+    li {
+        display: inline;
+        color: black;
+        padding: 12px;
+        background-color: 0;
+        width: 40px; 
+        height: 40px; 
+        margin: 80px;
+        text-decoration:none ;
+      
+    }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+       
+            border-radius: 50%;
+      }
+      .zz {
+        color: brown;
+      }
+      .rr {
+      color: black;
+      }
+   .hh{
+    text-align: center;
+   }
+   .h2{
+    text-align: center;
+   }
+   .ss{
+    text-align: center;
+   }
+   
+    #home{
+        text-align: center;
+        color: red;
+    }
+    #work{
+        text-align: center;
+        color: red;
+    }
+    #about{
+        text-align: center;
+        color: red;
+    }#resume{
+        text-align: center;
+        color: red;
+    }
+    #contact{
+        text-align: center;
+        color: red;
+    }
+    .pp{
+        text-align: center;
+        margin: 20px;
+    }
+    #ll {
+        text-align: center;
+    }
+    .rr {
+        text-align: center;
+    }
+    .zz {
+        height: 60px;
+margin-top: 0%;    }
+.kk{
+    text-align: center;
+}
+.gg{ text-align: center;}
+.aa{ text-align: center;}
